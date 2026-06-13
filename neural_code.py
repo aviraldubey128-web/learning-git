@@ -13,3 +13,15 @@ output
 
 output = [-5.52, -4.52, -8.12]
 
+inputs = [1, 2, 3, 2.5]
+weights = [[0.2, 0.8, -0.5, 1],
+          [0.5, -0.91, 0.26, -0.5],
+          [-0.26, -0.27, 0.17, 0.87]]
+biases = [2,3, 0.5]
+
+some_value = -0.5
+weights = 0.7
+bias = 0.7
+
+some_value*weight
+some_value*bias
